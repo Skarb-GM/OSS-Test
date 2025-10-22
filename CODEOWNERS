@@ -1,0 +1,14 @@
+# -----------------------------------------------------------------------------
+# CODEOWNERS
+# -----------------------------------------------------------------------------
+# This file defines individuals or teams that are responsible for code in this repository.
+# Each line is a file pattern followed by one or more owners.
+#
+# When someone opens a pull request that modifies code covered by a pattern,
+# GitHub will request reviews from the listed owners automatically.
+#
+# For organization teams, use the format: @org/team-name
+# -----------------------------------------------------------------------------
+
+# Default owners for all files in the repository
+* @generalmotors/OSS-Strategy @generalmotors/Maintainers
